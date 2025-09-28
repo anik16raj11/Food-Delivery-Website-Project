@@ -2,7 +2,7 @@ import React from 'react'
 import { IoIosArrowRoundBack } from "react-icons/io";
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
-import CartItemCard from '../components/CartItemCard';
+import CartItemCard from '../Components/CartItemCard';
 
 
 function CartPage() {
