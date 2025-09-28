@@ -14,7 +14,7 @@ import EditItem from './Pages/EditItem'
 import useGetShopByCity from './hooks/useGetShopByCity'
 import useGetItemsByCity from './hooks/useGetItemsByCity'
 import CartPage from './Pages/CartPage'
-import CheckOut from "./pages/CheckOut";
+import CheckOut from "./Pages/CheckOut";
 import OrderPlaced from './Pages/OrderPlaced'
 import MyOrders from './Pages/MyOrders'
 import useGetMyOrders from './hooks/useGetMyOrders'
